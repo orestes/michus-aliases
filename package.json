@@ -1,0 +1,27 @@
+{
+  "name": "michus-aliases",
+  "version": "1.0.0",
+  "description": "Get random aliases that my cat Michus has",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orestes/michus-aliases.git"
+  },
+  "keywords": [
+    "random",
+    "michus",
+    "alias"
+  ],
+  "author": "Orestes Carracedo <orestes.ca@gmail.com> (https://orestes.io/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/orestes/michus-aliases/issues"
+  },
+  "homepage": "https://github.com/orestes/michus-aliases#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
