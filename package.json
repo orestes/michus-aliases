@@ -1,7 +1,7 @@
 {
   "name": "michus-aliases",
   "description": "Get random aliases that my cat Michus has",
-  "version": "2.0.0",
+  "version": "0.0.0-semantically-released",
   "main": "src/index.js",
   "scripts": {
     "commit": "git-cz",
