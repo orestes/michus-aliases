@@ -23,5 +23,12 @@ describe('michus-aliases', function () {
             var randomItem = aliases.random();
             expect(aliases.all).to.include(randomItem);
         })
-    })
-});
+    });
+
+    it('should return an array of random items if passed a number', function () {
+        var ITEM_NUMBER = 2;
+        var randomItems = aliases.random(ITEM_NUMBER);
+        expect(randomItems).to.have.length(ITEM_NUMBER);
+    });
+})
+;
