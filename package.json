@@ -1,12 +1,11 @@
 {
-  "name": "michus-aliases",
-  "version": "1.1.0",
+  "name": "@orestes/michus-aliases",
+  "version": "1.1.2",
   "description": "Get random aliases that my cat Michus has",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/orestes/michus-aliases.git"
