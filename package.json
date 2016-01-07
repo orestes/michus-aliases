@@ -1,10 +1,10 @@
 {
   "name": "@orestes/michus-aliases",
-  "version": "1.1.3-beta.0",
+  "version": "1.1.3-beta.1",
   "description": "Get random aliases that my cat Michus has",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha src/index.test.js -w"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "homepage": "https://github.com/orestes/michus-aliases#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "3.4.1",
+    "mocha": "2.3.4"
   }
 }
