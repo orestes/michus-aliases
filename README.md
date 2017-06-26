@@ -1,5 +1,7 @@
 # michus-aliases
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/orestes/michus-aliases.svg)](https://greenkeeper.io/)
+
 [![travis build](https://img.shields.io/travis/orestes/michus-aliases.svg?style=flat-square)](https://travis-ci.org/orestes/michus-aliases)
 [![codecov coverage](https://img.shields.io/codecov/c/github/orestes/michus-aliases.svg?style=flat-square)](https://codecov.io/github/orestes/michus-aliases)
 [![downloads](https://img.shields.io/npm/dt/michus-aliases.svg?style=flat-square)](https://npm.im/michus-aliases)
